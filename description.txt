@@ -1,0 +1,13 @@
+The project I built as a challenge for Trivago Magazine.
+
+I gave myself the opportunity to change some of the design and copied some of the functionalities on the live site.
+
+I chose Nuxt.js for it's great ability for SSR (Server Side Rendering) which makes it so easy to reach by search engine crawlers.
+
+The project is simply divided into simple parts:
+-layouts
+	default.vue 	->	is the main template for the website
+-components			->  Contains simple reusable components
+-pages
+	-posts
+		_slug.vue	->  The main view for each article page
