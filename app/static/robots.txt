@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /error/404 
+Allow: / 
+Sitemap: https://magazine.trivago.com/sitemap.xml
