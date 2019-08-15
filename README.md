@@ -2,7 +2,7 @@
 
 > My amazing Nuxt.js Trivago Magazine project
 
-[Trivago Magazine](https://magazine.trivago.com/)
+This project was built as a coding challenge for Trivago company to redesign their [Trivago Magazine](https://magazine.trivago.com/).
 
 ## Build Setup
 
@@ -15,5 +15,3 @@ $ docker ps
 
 # Point your browser to http://localhost:3000/
 ```
-
-For detailed explanation on how things work, check out [Trivago Magazine](https://magazine.trivago.com/).
